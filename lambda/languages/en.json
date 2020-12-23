@@ -1,0 +1,30 @@
+{
+    "SKILL_NAME": "the Dabble Lab can fulfilment template",
+    "GREETING": [
+      "Welcome to {}. What is your name?"
+    ],
+    "GREETING_REPROMPT": [
+      "Please tell me your name"
+    ],
+    "NAME_RESPONSE":[
+        "Hello {}. It's nice to meet you."
+    ],
+    "HELP": [
+      "You can tell me your name to continue."
+    ],
+    "HELP_REPROMPT": [
+      "What is your name?"
+    ],
+    "FALLBACK": [
+      "Sorry, I didn't understand that. You can tell me your name, or say learn more, to learn more about this skill."
+    ],
+    "FALLBACK_REPROMPT": [
+      "You can tell me your name, or say learn more, to learn more about this skill."
+    ],
+    "CANCEL_STOP_RESPONSE": [
+      "Good bye",
+      "Okay. I'll be here if you need me."
+    ],
+    "ERROR": "Sorry, I wasn't able to handle your last request. Could you say that again?",
+    "ERROR_REPROMPT": "Could you say that again?"
+}
